@@ -1,23 +1,23 @@
 # I2C OLED 128x64
 
-makecode I2C OLED 128x64 package for micro:bit.  
+makecode 的 OLED 128 X 64 microbit 软件包.   
 
-Part of the drive base on fizban99's microbit OLED driver:  
-https://github.com/fizban99/microbit_ssd1306
+打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址:  
+https://github.com/zhuning239/OLED12864
 
-Author: shaoziyang  
-Date:   2018.Mar  
+作者: 朱林  
+日期: 2018/4  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/OLED12864_I2C/master/icon.png)  
+![image](https://github.com/zhuning239/OLED12864/blob/master/icon.png)  
   
 
-## usage
+## 使用方法
 
-open your microbit makecode project, in Add Package, paste  
+打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址  
 
-https://github.com/microbit-makecode-packages/OLED12864_I2C  
+https://github.com/zhuning239/OLED12864 
 
-to search box then search.
+搜索后就可以添加并使用本软件包了。 
 
 
 ## API
@@ -85,21 +85,18 @@ draw a rectangle.
   - (x2, y2), end point
   - color, draw color, it can be 1 or 0.
 
-## Demo
+## 演示
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/OLED12864_I2C/master/demo.png)  
+![image](https://github.com/zhuning239/OLED12864/blob/master/demo.png)  
 
 
 
-## License
+## 授权方式
 
 MIT
 
-Copyright (c) 2018, microbit/micropython Chinese community  
+湖南创乐博智能科技有限公司
 
-## Supported targets
+## 支持硬件
 
 * for PXT/microbit
-
-
-[From microbit/micropython Chinese community](http://www.micropython.org.cn)
