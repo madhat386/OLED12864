@@ -5,8 +5,8 @@ makecode 的 OLED 128 X 64 microbit 软件包.  
 打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址:  
 https://github.com/zhuning239/OLED12864
 
-作者: 朱林  
-日期: 2018/4  
+* 作者: 朱林  
+* 日期: 2018/4  
 
 ![image](https://github.com/zhuning239/OLED12864/blob/master/icon.png)  
   
